@@ -25,6 +25,7 @@ ShallowWrapper {
           RoboFriends
 </h1>,
         <CounterButton />,
+        <CounterButton2 />,
       ],
     },
     "ref": null,
@@ -40,6 +41,15 @@ ShallowWrapper {
         "ref": null,
         "rendered": "RoboFriends",
         "type": "h1",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
       },
       Object {
         "instance": null,
@@ -66,6 +76,7 @@ ShallowWrapper {
             RoboFriends
 </h1>,
           <CounterButton />,
+          <CounterButton2 />,
         ],
       },
       "ref": null,
@@ -81,6 +92,15 @@ ShallowWrapper {
           "ref": null,
           "rendered": "RoboFriends",
           "type": "h1",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
         },
         Object {
           "instance": null,
